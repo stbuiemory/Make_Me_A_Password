@@ -2,8 +2,8 @@
 
 ```sh
 
-Have you ever been frustrated with not being able to create a password, especially given all 
-the different requirements each website or application needs?  I have solved that problem with 
+Have you ever been frustrated with not being able to create a password, especially given all the different requirements each website
+or application needs?  I have solved that problem with 
 this awesome tool, which will easily create a password for you and save you time and headaches.
 
 ```
