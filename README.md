@@ -9,21 +9,19 @@ password for you and save you time and headaches.
 ```
 
 ### 🏠 Homepage
-```sh
-https://stbuiemory.github.io/Make_Me_A_Password/
 
-```
+Click [here](https://stbuiemory.github.io/Make_Me_A_Password/) to go to the website.
 
 ## 💻 Installation
 
 ```sh
-- We were given an incomplete starter code to review, analyze and adjust to meet certain criteria.
-- The application needs to generate a password with a length between 8-128 characters whilst giving the user the choice 
+🎯 We were given an incomplete starter code to review, analyze and adjust to meet certain criteria.
+🎯 The application needs to generate a password with a length between 8-128 characters whilst giving the user the choice 
 between lower case, upper case, numbers and/or special characters.
 ```
 ## 🎬 Usage
 ```sh
-- Below is a screenshot and the window prompts the user will see.
+🤩 Below is a screenshot and the window prompts the user will see.
 ```
 ![Screenshot of the final product](./assets/Screenshot_password%20generator.png)
 ![Screenshot of the window prompt 1](./assets/Screenshot_pwlength.png)
