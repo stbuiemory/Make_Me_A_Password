@@ -18,7 +18,7 @@ https://stbuiemory.github.io/Sandy-Bui-Portfolio/
 ```sh
 - We were given an incomplete starter code to review, analyze and adjust to meet certain criteria.
 - The application needs to generate a password with a length between 8-128 characters whilst giving the user the choice 
-between lower case, upper case, numbers and special characters.
+between lower case, upper case, numbers and/or special characters.
 ```
 ## 🎬 Usage
 ```sh
