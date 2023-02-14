@@ -20,6 +20,7 @@ Click [here](https://stbuiemory.github.io/Make_Me_A_Password/) to go to the webs
 between lower case, upper case, numbers and/or special characters.
 ```
 ## 🎬 Usage
+
 ```sh
 🤩 Below is a screenshot and the window prompts the user will see.
 ```
