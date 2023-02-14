@@ -2,9 +2,9 @@
 
 ```sh
 
-Have you ever been frustrated with not being able to create a password, especially given all the different requirements each website
-or application needs?  I have solved that problem with 
-this awesome tool, which will easily create a password for you and save you time and headaches.
+Have you ever been frustrated with not being able to create a password, especially given all the different requirements 
+each website or application needs?  I have solved that problem with this awesome tool, which will easily create a 
+password for you and save you time and headaches.
 
 ```
 
@@ -17,8 +17,8 @@ https://stbuiemory.github.io/Sandy-Bui-Portfolio/
 
 ```sh
 - We were given an incomplete starter code to review, analyze and adjust to meet certain criteria.
-- The application needs to generate a password with a length between 8-128 characters whilst 
-giving the user the choice between lower case, upper case, numbers and special characters.
+- The application needs to generate a password with a length between 8-128 characters whilst giving the user the choice 
+between lower case, upper case, numbers and special characters.
 ```
 ## 🎬 Usage
 ```sh
@@ -34,8 +34,8 @@ giving the user the choice between lower case, upper case, numbers and special c
 ## ⚙️ Testing
 
 ```sh
-🛠️ The website launched well; however, I did experience (1) issue. It concerns 
-the special characters prompt, of which resulted in "undefined" at times.
+🛠️ The website launched well; however, I did experience (1) issue. It concerns the special characters prompt, of which
+resulted in "undefined" at times.
 ```
 
 ## 🤝 Contributing
