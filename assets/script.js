@@ -94,7 +94,7 @@ function generatePassword() {
               }
 
               if (numeric === true && pwrequirements.pwlength < pwlength) {
-                var num = pwrequirements.pwnumeric[Math.floor(Math.random() * 26)]
+                var num = pwrequirements.pwnumeric[Math.floor(Math.random() * 10)]
                 result = result + num;
                 pwrequirements.pwlength++;
               }
