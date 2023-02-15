@@ -34,8 +34,7 @@ between lower case, upper case, numbers and/or special characters.
 ## ⚙️ Testing
 
 ```sh
-🛠️ The website launched well; however, I did experience (1) issue. It concerns the special characters prompt, of which
-resulted in "undefined" at times.
+🛠️ The website launched well and presented the criteria that the user needs.
 ```
 
 ## 🤝 Contributing
