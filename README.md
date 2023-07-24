@@ -1,12 +1,12 @@
 <h1 align="center">🔒 Make Me A Password 🔒</h1>
 
-```sh
+<div style="text-align: justify;">
 
-Have you ever been frustrated with not being able to create a password, especially given all the different requirements 
-each website or application needs?  I have solved that problem with this awesome tool, which will easily create a 
-password for you and save you time and headaches.
+Have you ever been frustrated with not being able to create a password, especially given all the 
+different requirements each website or application needs?  I have solved that problem with this 
+awesome tool, which will easily create a password for you and save you time and headaches.
 
-```
+</div>
 
 ### 🏠 Homepage
 
@@ -16,8 +16,8 @@ Click [here](https://stbuiemory.github.io/Make_Me_A_Password/) to go to the webs
 
 ```sh
 🎯 We were given an incomplete starter code to review, analyze and adjust to meet certain criteria.
-🎯 The application needs to generate a password with a length between 8-128 characters whilst giving the user the choice 
-between lower case, upper case, numbers and/or special characters.
+🎯 The application needs to generate a password with a length between 8-128 characters whilst giving
+the user the choice between lower case, upper case, numbers and/or special characters.
 ```
 ## 🎬 Usage
 
